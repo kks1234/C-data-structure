@@ -1,3 +1,4 @@
+/*定长字符串的操作*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
